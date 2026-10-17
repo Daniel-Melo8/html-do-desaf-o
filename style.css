@@ -9,33 +9,8 @@ body {
     background-size: cover;
 }
 
-
-p {
-    color: #ffffff;
-}
-
-ol {
-    color: #ffffff;
-
-}
-
-ul {
-    color: #ffffff;
-
-}
-
-h1 {
-    color: #ffffff;
-
-}
-
-h2 {
-    color: #ffffff;
-
-}
-
-h3 {
-    color: #ffffff;
+body {
+        color:#ffffff;
 
 }
 
@@ -50,7 +25,6 @@ a {
 }
 
 description {
-    color: #ffffff;
     margin-left: 80px;
 
 }
