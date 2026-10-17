@@ -1,0 +1,61 @@
+
+* {
+   
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./img/images.jpeg);
+    background-size: cover;
+}
+
+
+p {
+    color: #ffffff;
+}
+
+ol {
+    color: #ffffff;
+
+}
+
+ul {
+    color: #ffffff;
+
+}
+
+h1 {
+    color: #ffffff;
+
+}
+
+h2 {
+    color: #ffffff;
+
+}
+
+h3 {
+    color: #ffffff;
+
+}
+
+img {
+    border-radius: 50px;
+
+}
+
+a {
+    text-decoration: none;
+    color: #a81818
+}
+
+description {
+    color: #ffffff;
+    margin-left: 80px;
+
+}
+
+div p {
+    width: 500px;
+
+}
